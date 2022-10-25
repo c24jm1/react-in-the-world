@@ -3,7 +3,7 @@
 ## Sequence
 
 1. [Launch](#launch)
-2. [React in the World](#react-in-the-world)
+2. [React in the World](#react-in-the-world-1)
 
 ## Launch
 
